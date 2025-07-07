@@ -10,7 +10,6 @@ I'm passionate about machine learning research with a focus on computer vision, 
 
 ### Research Interests
 - **3D Computer Vision**: Neural Radiance Fields, 3D Gaussian Splatting
-- **Physics-Informed Machine Learning**: PINNs for multiphase flow modeling
 - **Multimodal AI**: Vision-language models, video understanding
 - **Generative Models**: GANs, diffusion models
 
