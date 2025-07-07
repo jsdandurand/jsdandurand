@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm passionate about machine learning research with a focus on computer vision, 3D representations, and physics-informed neural networks. Currently working on multimodal large language models for high-fps video understanding at CMU's CUBE Lab.
+I'm passionate about machine learning research with a focus on computer vision, NLP and 3D representations. Currently working on multimodal large language models for high-fps video understanding at CMU's CUBE Lab.
 
 ### Research Interests
 - **3D Computer Vision**: Neural Radiance Fields, 3D Gaussian Splatting
