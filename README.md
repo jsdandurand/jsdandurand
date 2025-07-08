@@ -26,4 +26,4 @@ I'm passionate about machine learning research with a focus on computer vision, 
 - 📧 Email: jsdandurand@gmail.com
 
 ---
-💡 *Always excited to discuss research collaborations and innovative ML applications!*
+💡 *Check out my pinned projects to see what I've been working on*
